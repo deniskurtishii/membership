@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+font-weight: 500;
+}
+.menu {
+width: 400px;
+display: flex;
+justify-content: space-around;
+}
+.menu_item {
+
+}
